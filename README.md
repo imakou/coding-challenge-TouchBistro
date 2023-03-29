@@ -1,7 +1,6 @@
 
 # Ruei-Pu (Allen) Kou - coding challenge
 
-Demo:
 ![image](https://user-images.githubusercontent.com/1507950/228425244-a08645e9-64f4-4b55-923b-6b2b4c612ff3.png)
 
 
